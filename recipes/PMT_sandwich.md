@@ -1,3 +1,4 @@
+# PMT Sandwich
 Following the tradition of the BLT sandwich, I present today its poor cousin, the *PMT* (*P*epper, *M*ayonnaise and *T*omato) *sandwich*.
 
 ## Cooking Level
